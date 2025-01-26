@@ -9,9 +9,9 @@
   
 - 🏋️‍♀️ **Fitness is my passion** Just can't imagine my morning without a treadmill
 
-- 🏃 **Lego dreamer** — I want to participate in competitions on Lego Ideas and hope to see a set based on my design released
+- 🧩 **Lego dreamer** — I want to participate in competitions on Lego Ideas and hope to see a set based on my design released
 
-- 🎮 **Small business keeper** — Run my own business crafting cross-stitch accessories
+- 🧵 **Small business keeper** — Run my own business crafting cross-stitch accessories
 
 ---
 
