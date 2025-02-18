@@ -34,9 +34,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashaleskina&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dashaleskina&theme=prussian)
+
 <p> 
   <img src="https://komarev.com/ghpvc/?username=dashaleskina&label=Profile%20views&color=0e75b6&style=flat"/> 
-  <a href="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd"><img src="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd/badges/large"/></a> 
+  <a href="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd"><img src="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd/badges/small"/></a> 
 </p>
 
 
