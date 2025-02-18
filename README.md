@@ -36,7 +36,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dashaleskina&theme=prussian)
 <p> 
   <img src="https://komarev.com/ghpvc/?username=dashaleskina&label=Profile%20views&color=0e75b6&style=flat"/> 
-  <a href="https://www.codewars.com/users/dashaleskinarss"><img src="https://www.codewars.com/users/dashaleskinarss/badges/small"/></a> 
+  <a href="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd"><img src="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd/badges/large"/></a> 
 </p>
 
 
