@@ -9,7 +9,7 @@
   
 - 🏋️‍♀️ **Fitness is my passion** Just can't imagine my morning without a treadmill
 
-- 🧵 **Small business keeper** — Run my own business crafting cross-stitch accessories
+- 📹 **[My video presentation](https://youtu.be/K6lxvQ0zfDs)** — A short excursion into my path to becoming a developer
 
 ---
 
@@ -26,15 +26,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 
-<h2 align="left">📊 Statistics</h2>
-<p align="left">
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashaleskina&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dashaleskina&theme=prussian)
 
 <p> 
-  <img src="https://komarev.com/ghpvc/?username=dashaleskina&label=Profile%20views&color=0e75b6&style=flat"/> 
+  <img src="https://komarev.com/ghpvc/?username=dashaleskina&label=Profile%20views&color=0e75b6&style=flat"/>
+  
   <a href="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd"><img src="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd/badges/small"/></a> 
 </p>
 
@@ -48,55 +43,52 @@
 
 <h2 align="left">💻 My projects</h2>
 
+## [Nonograms](https://github.com/dashaleskina/RSSchool-2024Q4/tree/nonograms/nonograms)
+<img src="https://github.com/user-attachments/assets/fb56ff41-9f76-4a04-8c20-777a34074307"
+ alt="Screenshot" width="400" height="250"/>
 
-## [Mesto Gallery](https://github.com/dashaleskina/mesto-project-ff)
-<img src="https://github.com/user-attachments/assets/b8942011-0ad5-43de-9955-25b6bc70dbef" alt="Screenshot" width="500" height="250"/>
+[Watch project](https://rolling-scopes-school.github.io/dashaleskina-JSFE2024Q4/nonograms/)
 
-Mesto is an interactive gallery where users can upload photos, like others' images, and update their profile information using an API.
+This is an implementation of the Japanese crossword puzzle game. The game has three difficulty levels, when you click on a cell, the timer starts and stops on successful completion. All actions are accompanied by beeps that can be turned off. Different screen widths are supported, and the menu for different screens is also different. There are many other functions as well. By the way, the design was completely developed by me.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## [Look Out the Window](https://github.com/dashaleskina/posmotri_v_okno)
-<img src="https://github.com/user-attachments/assets/13dcebcf-7de8-4df1-8dfb-74aee8d593ee" alt="Screenshot" width="500" height="250"/>
+## [Simon Says](https://github.com/dashaleskina/RSSchool-2024Q4/tree/simon-says/simon-says)
+<img src="https://github.com/user-attachments/assets/6c987ebc-280c-434f-a780-e5fc22b20cca"
+ alt="Screenshot" width="400" height="250"/>
 
-"Look Out the Window" is a website that allows users to view pre-recorded videos from various cities. It offers features for filtering by time of day and searching by city name.<br>
-Features:<br>
-Pre-Recorded City Videos: Access a collection of videos showcasing different cities around the world.<br>
-Time of Day Filtering: Filter videos based on the time of day (e.g., morning, afternoon, evening).<br>
-City Search: Search for videos by entering the name of the city to find specific locations quickly.<br>
+[Watch project](https://rolling-scopes-school.github.io/dashaleskina-JSFE2024Q4/simon-says/)
 
+The project is a modified version of the children's game "Simon Says". The player's task is to correctly press the keys of a virtual or real keyboard. Three difficulty levels are supported. There are 5 levels in total, with each character sequence increasing by 2.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- https://dashaleskina.github.io/posmotri_v_okno/
 
 
-## ["Closing Tag" Blog](https://github.com/dashaleskina/zakrivayuschiy-teg-f)
-<img src="https://github.com/user-attachments/assets/15813677-6fcb-49ba-a953-cac48836e2d5" alt="Screenshot" width="500" height="250"/>
+## [Christmas Shop](https://github.com/dashaleskina/RSSchool-2024Q4/tree/christmas-shop-part3/christmas-shop)
+<img src="https://github.com/user-attachments/assets/7f0e8ea4-1f52-4682-a1e1-6bb95f00af82"
+ alt="Screenshot" width="400" height="250"/>
 
-"Closing Tag" is a small blog focused on starting education.<br>
-Features:<br>
-Likes and Dislikes: Users can rate posts with likes or dislikes.<br>
-Image Filters: Apply various filters to uploaded images for enhanced visual appeal.<br>
-Modal Window: Implemented a modal window for viewing post details and interacting with content.<br>
-Theme Switching: Users can switch between different themes for a personalized experience.<br>
+[Watch project](https://rolling-scopes-school.github.io/dashaleskina-JSFE2024Q4/christmas-shop/pages/index.html)
 
+This is the website of an online store of unique products for front-end developers in the Christmas style. The page has a slider, a timer for the days until the new year, and on the second page it is possible to open modal windows with products, each with unique, non-repeating data. Sorting by category is also implemented. The site supports screen sizes for laptops, tablets, and phones.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- https://dashaleskina.github.io/zakrivayuschiy-teg-f/
 
-## ["No focus" Blog](https://github.com/dashaleskina/slozhno-sosredotochitsya)
-<img src="https://github.com/user-attachments/assets/76e8775a-2dd2-4bea-9e08-b2bc3ba5ec67" alt="Screenshot" width="500" height="250"/>
 
-This project is an educational initiative where I explored grid. It showcases various methods to improve focus and productivity.<br>
-Features:<br>
-Grid Layouts: Utilized CSS Grid to create structure<br>
-Responsive Design: Implemented responsive design practices to ensure optimal viewing experiences across devices.<br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- https://dashaleskina.github.io/slozhno-sosredotochitsya/
+
+
+
+
+
+
+
 
 
 <!--
