@@ -4,10 +4,12 @@
 <h3 align="center">Frontend student, beginner developer from Moscow</h3>
 
 - 💻 **Coding is my favorite activity** — I dedicate most of my time to it, and it makes me feel great
+
+- 🔍 **Diving into QA** — I’ve always enjoyed both development and testing, and I was excited to discover a field that brings them together: automation in QA
   
 - 🎓 **A real ecologist!** I graduated with a Bachelor's degree in Ecology and have worked in a company that was engaged in waste processing
   
-- 🏋️‍♀️ **Fitness is my passion** Just can't imagine my morning without a treadmill
+- 🏋️‍♀️ **Fitness is my passion** Just can't imagine my morning without a sport
 
 - 📹 **[My video presentation](https://youtu.be/K6lxvQ0zfDs)** — A short excursion into my path to becoming a developer
 
@@ -20,17 +22,19 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles-F3F5F5.svg?style=for-the-badge&logo=Charles&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=dashaleskina&label=Profile%20views&color=0e75b6&style=flat"/>
   
-  <a href="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd"><img src="https://www.codewars.com/users/rsschool_9a2ccbba7c9caffd/badges/small"/></a> 
+  <a href="https://www.codewars.com/users/dashaleskinarss"><img src="https://www.codewars.com/users/dashaleskinarss/badges/small"/></a> 
 </p>
 
 
